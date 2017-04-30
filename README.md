@@ -1,2 +1,2 @@
-# Machine-Learning
-Short projects
+# Machine Learning
+Simple machine learning models in r.
