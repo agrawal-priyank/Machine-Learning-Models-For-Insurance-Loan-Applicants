@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning : Regression and Classifier Models
 This is the part of the midterm and final projects for Advances in Data Science and Architecture course.
 
 # Description
