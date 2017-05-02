@@ -1,8 +1,7 @@
 # Machine Learning
-Simple machine learning models in r.
+This is the part of the midterm and final projects for Advances in Data Science and Architecture course.
 
 # Description
-This is the part of the midterm and final projects for Advances in Data Science and Architecture course.
 ## Insurance Dataset
 1. Implemented Linear Regression, Decision Tree Regression and Support Vector Machines on the Prudential Life Insurance data-set provided by Kaggle to assess whether the applicant for life insurance should be accepted or rejected from scale of 1 to 8.
 2. Performed Data pre-processing and cleaning of the data-set by normalizing all the values of continuous variables from 0 to 1.
