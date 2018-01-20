@@ -1,16 +1,16 @@
-## Machine Learning : Regression and Classifier Models
+## Machine Learning: Regression and Classifier Models
 
-## Description
-### Insurance Dataset
-1. Implemented Linear Regression, Decision Tree Regression and Support Vector Machines on the Prudential Life Insurance data-set provided by Kaggle to assess whether the applicant for life insurance should be accepted or rejected from scale of 1 to 8.
-2. Performed Data pre-processing and cleaning of the data-set by normalizing all the values of continuous variables from 0 to 1.
-3. Performed 1 to N transformation of the categorical columns having more than 2 categories and Binary transformation of the columns having categories.
-4. Calculated the RMSE (Root Mean Squared Error) values to assess the accuracy of all the three models and concluded the Linear Regression model to be the most accurate one.
+### Description
+#### Prudential Life Insurance Dataset
+* Created different prediction models using linear regression, decision tree regression, and support vector machines algorithm on the Prudential Life Insurance dataset provided by Kaggle to assess whether the applicant for life insurance should be accepted or rejected.
+* Performed data pre-processing and cleaned the dataset by normalizing all the values of continuous features from 0 to 1.
+* Performed 1 to N transformation of the categorical features having more than 2 categories and binary transformation of the features having 2 categories.
+* Calculated the root mean squared error to assess the accuracy of all the three models and concluded the linear regression model to be the most accurate one.
 
-### Loan Dataset
-1. Implemented Naive Bayesian Classifier and Neural Networks to classify whether loan applicant should either be accepted or rejected.
-2. Performed 1 to N transformation of the categorical variables for Neural model.
-3. Used K-folds cross validation technique to build the optimal model and concluded the NBC model to be more accurate than the Neural model.
+#### Loan Lending Club Dataset
+* Built different classifiers using naive bayesian and neural networks algorithm to classify whether a loan applicant should be accepted or rejected.
+* Performed 1 to N transformation of the categorical features and used k folds cross validation technique to build an optimal model.
+* Concluded naive bayesian model to be more accurate than the neural networks model.
 
 ### Code
 #### Insurance Dataset
